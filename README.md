@@ -16,8 +16,6 @@ Fitur Dashboard
 - Tren pendapatan
 - Visualisasi dashboard interaktif
 
-Author
-Disya Nurul Ariza
 
-## Author
+Author
 Disya Nurul Ariza
